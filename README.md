@@ -1,5 +1,5 @@
 
-
+![Texto Alternativo](WhatsApp Image 2026-02-21 at 21.04.25)
 <h1 align="center">Hi 👋, I'm Karen Beatriz Arce</h1>
 <h3 align="center">Junior Data Analyst with a background in Systems Engineering, skilled in Python, SQL, and data visualization. Passionate about turning raw data into meaningful insights to support business decisions. Eager to grow professionally in analytics, business intelligence, and data-driven environments.</h3>
 ![image alt](https://github.com/ArceKaren10/ArceKaren10/blob/5e1f3222312ecdf96a7949736662651813498b0e/WhatsApp%20Image%202026-02-21%20at%2021.04.25.jpeg)
