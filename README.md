@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-<!--
-**ArceKaren10/ArceKaren10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 <h1 align="center">Hi 👋, I'm Karen Beatriz Arce</h1>
 <h3 align="center">Junior Data Analyst with a background in Systems Engineering, skilled in Python, SQL, and data visualization. Passionate about turning raw data into meaningful insights to support business decisions. Eager to grow professionally in analytics, business intelligence, and data-driven environments.</h3>
