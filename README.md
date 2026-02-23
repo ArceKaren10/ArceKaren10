@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Karen Beatriz Arce</h1>
-<h3 align="center">Junior Data Analyst with a background in Systems Engineering, skilled in Python, SQL, and data visualization. Passionate about turning raw data into meaningful insights to support business decisions. Eager to grow professionally in analytics, business intelligence, and data-driven environments.</h3>
+<h3 align="center">Junior Data Analyst with a background in Systems Engineering. Eager to grow professionally in analytics, business intelligence, and data-driven environments.</h3>
 
 ![Banner](https://github.com/ArceKaren10/ArceKaren10/blob/39d03e9e88ea6bf2c0a085928218b34645df3757/WhatsApp%20Image%202026-02-21%20at%2021.04.25.jpeg)
 - 📫 How to reach me **arcek45@gmail.com**
